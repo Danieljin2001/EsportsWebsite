@@ -1,0 +1,27 @@
+website design inspo: https://hooniverse.com/about/
+
+make div clickable: https://stackoverflow.com/questions/8160494/how-to-make-a-whole-div-clickable-in-html-and-css-without-javascript
+
+about page content: https://lol.fandom.com/wiki/T1
+
+get youtube thumbnail image: https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api
+
+remove default link styling: https://stackoverflow.com/questions/10312857/blue-and-purple-default-links-how-to-remove
+
+icon images: https://icons8.com/
+
+video: https://www.youtube.com/watch?v=Hs3LFwb8b7w&ab_channel=LCKGlobal
+
+logo icon: https://liquipedia.net/commons/images/4/4e/T1_allmode.png
+
+using table: https://www.w3schools.com/html/html_tables.asp
+
+header inspo: https://www.youtube.com/watch?v=SIzi9z8mrTk&ab_channel=AngelaDelise
+
+skins page info: https://leagueoflegends.fandom.com/wiki/SKT_T1
+
+playing youtube video: https://www.w3schools.com/html/html_youtube.asp 
+
+play mp4: https://www.w3schools.com/tags/att_video_loop.asp https://www.w3schools.com/html/html5_video.asp
+
+underline h1: https://stackoverflow.com/questions/11659290/underline-h1-within-a-div
